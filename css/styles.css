@@ -1,0 +1,136 @@
+body {
+    text-align: center;
+    font-family: verdana, sans-serif;
+    color:#40514E;
+}
+p{
+    line-height: 2;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 5.625rem;
+    color: #205134;
+    line-height: 1;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color:#205134;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#0d4c4e;
+}
+body {
+    margin: 0; 
+    font-family: 'Merriweather Sans', sans-serif;
+}
+hr{
+    background-color: none;
+    border-style: dotted none none none;
+    border-top-width: 6px;
+    border-top-color: #205134;
+    height: 0px;
+    width: 4%;
+    margin: 100px auto 100px auto;
+}
+a{
+  font-family:'Montserrat', sans-serif;
+  color: #0d4c4e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+    color:#EAF6F6;
+}
+.top-container {
+        position: relative;
+        background-color: rgb(197, 225, 236);
+        padding-top: 100px;
+}
+.middle-container {
+    background-color: #E5F4DD;
+    padding: 100px 0 100px 0;
+}
+.bottom-container {
+    background-color: #A1D863;
+    padding: 50px 0 20px 0;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}    
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+#purrr{
+    text-decoration: underline;
+}
+.skill-row{
+    width: 30%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.design{
+    width: 15%;
+    float:left;
+    padding-right: 0;
+}
+.development{
+    width: 15%;
+    float: right;
+    padding-right: 180px;
+}
+.design-paragraph{
+    clear: left;
+}
+.development-paragraph{
+    clear: right;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ff8c69;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #e67e5f;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .bottom-container{
+    padding: 50px;
+    line-height: 2;
+  }
+  .bottom-container-paragraph{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  .profile-paragraph{
+    width: 30%;
+    margin:auto;
+    text-align: left;
+    line-height: 2;
+  }
+  .contact-me-paragraph{
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+ 
